@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Estoy queriendo fusionar dos branches
 Ejemplo modificacion
 Estoy generando un error
+=======
+Estoy queriendo fusionar dos brancheEstoy generando un error
+>>>>>>> f05b7cb (rerere)
